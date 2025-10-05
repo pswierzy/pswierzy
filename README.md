@@ -20,9 +20,6 @@
 
 ---
 
-### 📊 Statystyki
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pswierzy&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pswierzy&layout=compact)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pswierzy&theme=tokyonight)
 
 ---
