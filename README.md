@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I'm Piotr and I study Computer Science at AGH University in Krakow
+🎓 I'm Piotr and I study Computer Science at AGH University in Krakow\
 🤖 I'm mainly interested in Machine Learning and Data Science
 
 ---
